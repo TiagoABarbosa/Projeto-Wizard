@@ -22,7 +22,7 @@ function NavBar() {
         <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer"href="/">Service Desk</a>
         <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer"href="/">Material de Apoio</a>
         <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer"href="/">Links úteis</a>
-        <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer"href="/">Ramais</a>
+        <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer"href="http://192.168.0.212/ASCCallCenter/monitor-mesa-operadora">Ramais</a>
         <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer" href="https://ajuda.sankhya.com.br">Central de Ajuda</a>
         <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer" href="http://downloads.sankhya.com.br/">Downloads</a>
         <a className="py-2 d-none d-md-inline-block" target="_blank" rel="noreferrer" href="http://downloads.sankhya.com.br/novidades.php">Novidades</a>
