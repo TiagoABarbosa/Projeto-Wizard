@@ -1,6 +1,8 @@
-import NavBar from "components/NavBar";
-import "assets/css/styles.css";
-import Footer from "components/Footer/Index";
+import NavBar from "./components/NavBar";
+import Footer from "./components/Footer";
+import Weather from "./components/Weather";
+import "./assets/css/styles.css"
+
 
 function App() {
   return (
@@ -9,6 +11,9 @@ function App() {
       <div className="container">
         <h1 className="text-primary">Servidores FMC</h1>
       </div>
+      
+        <Weather />
+
       <Footer />
     </>
   );

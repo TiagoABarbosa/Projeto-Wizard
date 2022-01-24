@@ -19,6 +19,21 @@ body {
   flex: 1 0 auto;
 }
 
+.weather {
+    text-align: center;
+    font-size: 14px;
+}
+
+h4 {
+    margin: 0;
+}
+
+ul, li{
+    list-style:none;
+    list-style-type:none;
+    padding: 0;
+}
+
 .footer {
   font-size: 12px;
   bottom: 0;
