@@ -60,7 +60,7 @@ function Weather() {
             <li>Temperatura Atual: {weather["main"]["temp"].toFixed(0)}°C</li>
             <li>Temperatura Máxima: {weather["main"]["temp_max"].toFixed(0)}°</li>
             <li>Temperatura Minima: {weather["main"]["temp_min"].toFixed(0)}°</li>
-            <li>Humidade: {weather["main"]["humidity"]}%</li>
+            <li>Umidade: {weather["main"]["humidity"]}%</li>
           </ul>
         </div>
       </Fragment>
