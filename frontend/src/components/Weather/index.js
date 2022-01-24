@@ -58,7 +58,7 @@ function Weather() {
           </h4>
           <ul>
             <li>Temperatura Atual: {weather["main"]["temp"].toFixed(0)}°C</li>
-            <li>Vento: {weather["wind"]["speed"])} km/h</li>
+            <li>Vento: {weather["wind"]["speed"]} km/h</li>
             <li>Umidade: {weather["main"]["humidity"]}%</li>
           </ul>
         </div>
