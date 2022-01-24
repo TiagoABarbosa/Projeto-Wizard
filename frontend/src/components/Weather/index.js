@@ -7,7 +7,7 @@ function Weather() {
 
   let getWeather = async (lat, long) => {
     let res = await axios.get(
-      "http://api.openweathermap.org/data/2.5/weather",
+      "https://api.openweathermap.org/data/2.5/weather",
       {
         params: {
           lat: lat,
@@ -53,7 +53,7 @@ function Weather() {
             <img
               width="70"
               alt="icon"
-              src={`http://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`}
+              src={`https://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`}
             />
           </h4>
           <ul>
