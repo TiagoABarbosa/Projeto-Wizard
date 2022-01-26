@@ -1,0 +1,19 @@
+header {
+    background-color: rgb(71, 94, 58);
+    align-items: center;
+}
+
+
+.wizard-nav-content {
+    display: flex;
+    justify-content: space-between;
+}
+
+.wizard-weather-container {
+    display: flex;
+}
+
+container {
+    display: flex;
+    
+}

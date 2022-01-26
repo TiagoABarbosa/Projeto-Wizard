@@ -47,7 +47,7 @@ function Weather() {
   } else {
     return (
       <Fragment>
-        <div className="container">
+        <div className="container d-flex justify-content-between align-items-center">
           <h4>
             {weather["name"]}-MG{" "}
             <img

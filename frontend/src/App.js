@@ -1,18 +1,17 @@
 import NavBar from "./components/NavBar";
 import Footer from "./components/Footer";
 import Weather from "./components/Weather";
-import "./assets/css/styles.css"
-
+import "./assets/css/styles.css";
+import Servers from "./pages/Servers";
 
 function App() {
   return (
     <>
       <NavBar />
-      <div className="container">
-        <h1 className="text-primary">Servidores FMC</h1>
-      </div>
-      
-        <Weather />
+
+      <Servers />
+
+      <Weather />
 
       <Footer />
     </>
