@@ -227,6 +227,60 @@ function Servers() {
 
                         <div class='col'>
                             <div class='card shadow-sm'>
+                                <img class='bd-placeholder-img card-img-top' src={logoServer} alt='wizard 2.0' width='225' />
+                                <div class='card-body'>
+                                    <p class='card-text'>Base FMC Porta : 9513</p>
+                                    <div class='d-flex justify-content-between align-items-center'>
+                                        <div class='btn-group'>
+                                            <a target='_blank' rel='noreferrer' href='http://sdeteste.nuvemdatacom.com.br:9513/mge/'>
+                                                <button type='button' class='btn btn-sm btn-outline-secondary'>
+                                                    Acessar
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='col'>
+                            <div class='card shadow-sm'>
+                                <img class='bd-placeholder-img card-img-top' src={logoServer} alt='wizard 2.0' width='225' />
+                                <div class='card-body'>
+                                    <p class='card-text'>Base FMC Porta : 9514</p>
+                                    <div class='d-flex justify-content-between align-items-center'>
+                                        <div class='btn-group'>
+                                            <a target='_blank' rel='noreferrer' href='http://sdeteste.nuvemdatacom.com.br:9514/mge/'>
+                                                <button type='button' class='btn btn-sm btn-outline-secondary'>
+                                                    Acessar
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='col'>
+                            <div class='card shadow-sm'>
+                                <img class='bd-placeholder-img card-img-top' src={logoServer} alt='wizard 2.0' width='225' />
+                                <div class='card-body'>
+                                    <p class='card-text'>Base FMC Porta : 9515</p>
+                                    <div class='d-flex justify-content-between align-items-center'>
+                                        <div class='btn-group'>
+                                            <a target='_blank' rel='noreferrer' href='http://sdeteste.nuvemdatacom.com.br:9515/mge/'>
+                                                <button type='button' class='btn btn-sm btn-outline-secondary'>
+                                                    Acessar
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='col'>
+                            <div class='card shadow-sm'>
                                 <img class='bd-placeholder-img card-img-top' src={logoServerSQL} alt='wizard 2.0' width='225' />
                                 <div class='card-body'>
                                     <p class='card-text'>Base FMC Porta : 9532</p>
@@ -269,6 +323,42 @@ function Servers() {
                                     <div class='d-flex justify-content-between align-items-center'>
                                         <div class='btn-group'>
                                             <a target='_blank' rel='noreferrer' href='http://sdeteste.nuvemdatacom.com.br:9534/mge/'>
+                                                <button type='button' class='btn btn-sm btn-outline-secondary'>
+                                                    Acessar
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='col'>
+                            <div class='card shadow-sm'>
+                                <img class='bd-placeholder-img card-img-top' src={logoServerSQL} alt='wizard 2.0' width='225' />
+                                <div class='card-body'>
+                                    <p class='card-text'>Base FMC Porta : 9535</p>
+                                    <div class='d-flex justify-content-between align-items-center'>
+                                        <div class='btn-group'>
+                                            <a target='_blank' rel='noreferrer' href='http://sdeteste.nuvemdatacom.com.br:9535/mge/'>
+                                                <button type='button' class='btn btn-sm btn-outline-secondary'>
+                                                    Acessar
+                                                </button>
+                                            </a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class='col'>
+                            <div class='card shadow-sm'>
+                                <img class='bd-placeholder-img card-img-top' src={logoServerSQL} alt='wizard 2.0' width='225' />
+                                <div class='card-body'>
+                                    <p class='card-text'>Base FMC Porta : 9536</p>
+                                    <div class='d-flex justify-content-between align-items-center'>
+                                        <div class='btn-group'>
+                                            <a target='_blank' rel='noreferrer' href='http://sdeteste.nuvemdatacom.com.br:9536/mge/'>
                                                 <button type='button' class='btn btn-sm btn-outline-secondary'>
                                                     Acessar
                                                 </button>

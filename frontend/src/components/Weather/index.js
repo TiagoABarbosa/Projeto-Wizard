@@ -42,7 +42,7 @@ function Weather() {
     } else {
         return (
             <Fragment>
-                <div className='container d-flex justify-content-between align-items-center'>
+                <div className='container d-flex justify-content-around align-items-center'>
                     <h4>
                         {weather["name"]} <img width='70' alt='icon' src={`https://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`} />
                     </h4>
