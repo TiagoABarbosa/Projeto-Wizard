@@ -16,14 +16,14 @@ Projeto: Desenvolver com uma página de apoio ao Service Desk - Sankhya
 
 [![React Badge](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://pt-br.reactjs.org/)
 [![Bootstrap Badge](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)(https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)]
+[![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
 [![VirtualCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://code.visualstudio.com/)
 
 
  ### Cloud :cloud:<p>
  [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-# API Weather
+# API Weather<p>
 [OpenWeather Map] (https://openweathermap.org/)
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" width="150">
 
