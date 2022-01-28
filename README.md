@@ -23,8 +23,8 @@ Projeto: Desenvolver com uma página de apoio ao Service Desk - Sankhya
  ### Cloud :cloud:<p>
  [![Netlify Badge](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)](https://www.netlify.com/)
 
-# API Weather<p>
-[OpenWeather Map] (https://openweathermap.org/)
+# API Weather:
+[OpenWeather Map](https://openweathermap.org/)<p>
 <img src="https://openweathermap.org/themes/openweathermap/assets/img/logo_white_cropped.png" width="150">
 
 ## Link do Projeto:
