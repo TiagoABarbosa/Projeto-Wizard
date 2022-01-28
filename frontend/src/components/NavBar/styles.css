@@ -3,6 +3,10 @@ header {
     align-items: center;
 }
 
+bg.light{
+    background: #E5E5E5;
+  }
+
 
 .wizard-nav-content {
     display: flex;

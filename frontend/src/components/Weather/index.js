@@ -30,13 +30,13 @@ function Weather() {
     if (location === false) {
         return (
             <Fragment>
-                <div className='container'>Habilite a localização do Browser para visualizar o clima.</div>
+                <div className='container text-center'>Habilite a localização do Browser para visualizar o clima.</div>
             </Fragment>
         );
     } else if (weather === false) {
         return (
             <Fragment>
-                <div className='container'>Carregando o clima...</div>
+                <div className='container text-center'>Carregando o clima...</div>
             </Fragment>
         );
     } else {
@@ -44,7 +44,7 @@ function Weather() {
             <Fragment>
                 <div className='container d-flex justify-content-around align-items-center'>
                     <h4>
-                        {weather["name"]} <img width='70' alt='icon' src={`https://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`} />
+                        {weather["name"]} <img width='60' alt='icon' src={`https://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`} />
                     </h4>
                     <ul>
                         <li>Temperatura Atual: {weather["main"]["temp"].toFixed(0)}°C</li>

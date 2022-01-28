@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;700&display=swap');
 
 :root {
-  --color-primary: #4D41C0;
+  --color-primary: #008561;
 }
 
 * {
@@ -11,6 +11,10 @@
 
 html, body {
     background-color: #E5E5E5;
+}
+
+.site-header.py-1.sticky-top {
+    $secondary: #E5E5E5;
 }
 
 a, a:hover {
