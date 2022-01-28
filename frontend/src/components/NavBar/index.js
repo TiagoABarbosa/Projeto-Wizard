@@ -54,11 +54,12 @@ function NavBar() {
   </button>
   <ul class="dropdown-menu">
     <li><a class="dropdown-item fw-bold" target="_blank" rel="noreferrer"href="https://www.alura.com.br/">Alura Cursos</a></li>
+    <li><a class="dropdown-item fw-bold" target="_blank" rel="noreferrer"href="https://descola.org/">Descola Cursos</a></li>
     <li><a class="dropdown-item fw-normal" target="_blank" rel="noreferrer"href="https://skw.sankhya.com.br/mgepes/html5/PortalRH/Login.html">Portal RH</a></li>
     <li><a class="dropdown-item fw-normal" target="_blank" rel="noreferrer" href="https://www.nfe.fazenda.gov.br/portal/principal.aspx">Portal NF-e</a></li>
       
     <li><a class="dropdown-item fw-normal" target="_blank" rel="noreferrer"href="http://code2.sankhya.com.br/">Sankhya CODE</a></li>
-    <li><a class="dropdown-item fst-italic" target="_blank" rel="noreferrer"href="https://developer.sankhya.com.br/">Sankhya Developer</a></li>
+    <li><a class="dropdown-item fst-normal" target="_blank" rel="noreferrer"href="https://developer.sankhya.com.br/">Sankhya Developer</a></li>
     
     <li><a class="dropdown-item fw-normal" target="_blank" rel="noreferrer"href="https://place.sankhya.com.br/#/login">Sankhya Place</a></li>
     <li><a class="dropdown-item fw-normal" target="_blank" rel="noreferrer"href="http://www.sintegra.gov.br/">Sintegra</a></li>
