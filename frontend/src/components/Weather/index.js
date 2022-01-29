@@ -44,7 +44,7 @@ function Weather() {
             <Fragment>
                 <div className='container d-flex justify-content-around align-items-center'>
                     <h4>
-                        {weather["name"]} <img width='60' alt='icon' src={`https://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`} />
+                        {weather["name"]} <img width='50' alt='icon' src={`https://openweathermap.org/img/w/${weather["weather"][0]["icon"]}.png`} />
                     </h4>
                     <ul>
                         <li>Temperatura Atual: {weather["main"]["temp"].toFixed(0)}°C</li>
